@@ -1,0 +1,14 @@
+/* app css stylesheet */
+
+.navbar {
+  margin-top: 20px;
+}
+
+.title {
+	display: block;
+	font-size: 12px;
+}
+
+.user {
+	font-size: 12px;
+}
